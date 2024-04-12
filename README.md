@@ -19,5 +19,6 @@ UX/UI design and fullstack development enthusiast. I love creating complete web 
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 ![Flask](https://img.shields.io/badge/-flask-black?style=flat-square&logo=flask)
 ![Flask](https://img.shields.io/badge/-Meteor-black?style=flat-square&logo=meteor)
+![Flask](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 
 
