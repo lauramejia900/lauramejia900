@@ -5,6 +5,7 @@
 UX/UI design and fullstack development enthusiast. I love creating complete web applications that captivate users. Always looking for new ways to innovate and improve in this exciting world of software design and development. 👩‍💻
 
 [![Linkedin Badge](https://img.shields.io/badge/-lauramejiamosquera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/lauramejiamosquera/])](https://www.linkedin.com/in/lauramejiamosquera/)
+[![Instagram Badge](https://img.shields.io/badge/-laura.mejia.dev-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/laura.mejia.dev1/)](https://instagram.com/laura.mejia.dev)
 
 ## 💻 Some technologies I use
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
