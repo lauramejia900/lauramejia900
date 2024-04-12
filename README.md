@@ -2,4 +2,4 @@
 <img src="https://raw.githubusercontent.com/lauramejia900/lauramejia900/master/logo.png" alt="logo">
 
 
-Entusiasta del diseño UX/UI y desarrollo fullstack. Amo crear aplicaciones web completas que cautiven a los usuarios. Siempre buscando nuevas formas de innovar y mejorar en este emocionante mundo del diseño y desarrollo de software. 👩‍💻
+UX/UI design and fullstack development enthusiast. I love creating complete web applications that captivate users. Always looking for new ways to innovate and improve in this exciting world of software design and development. 👩‍💻
