@@ -21,5 +21,6 @@ UX/UI design and fullstack development enthusiast. I love creating complete web 
 ![Meteor](https://img.shields.io/badge/-Meteor-black?style=flat-square&logo=meteor)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![VS](https://img.shields.io/badge/-VS-blue?style=flat-square&logo=visualStudio)
 
 
